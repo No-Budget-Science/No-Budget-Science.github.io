@@ -8,13 +8,15 @@ Apesar do interesse da comunidade acadêmica local pelos assuntos abordados, fic
 
 ### Encontros
 
-Para saber mais sobre os eventos, acesse a nossa página no [Facebook](facebook.com/nobudgetscience/). Lá você encontrará a nossa comunidade, além de vários vídeos de edições anteriores.
+Para saber mais sobre os eventos, acesse a nossa página no [Facebook](facebook.com/nobudgetscience/). Lá você encontrará a nossa comunidade, além de vários vídeos de edições anteriores. Durante os 3 anos do evento, os encontros passaram por temas como redes sociais, preprints, co-autoria, ciência e público, revisões sistemáticas, ensino, inovação, futebol e uso de dados públicos.
 
 ### Hack Weeks
 
+A partir de 2019, organizamos [hack weeks](https://www.pnas.org/content/115/36/8872) com temas de metaciência - ciência para entender e melhorar a ciência -, para juntar pessoas em torno de projetos colaborativos.
+
 A primeira edição da No-Budget Science Hack Week ocorreu no Rio de Janeiro, em 2019, com atividades divididas entre o Instituto D’Or e a UFRJ, com apoio de programas de pós-graduação da UFRJ e do [Instituto Serrapilheira](https://serrapilheira.org/). Dezoito participantes de diversos estados do Brasil, de estudantes de graduação a pós-doutorandos, integraram os grupos, que durante uma semana desenvolveram suas [ideias de projeto](ADICIONAR LINK). Você pode ver nessa playlist [as palestras do evento de lançamento](https://www.youtube.com/playlist?list=PLfID5M8U8w5vmaLJmWgl42xW0tfWWJW9-).
 
-A segunda edição foi realizada de forma remota, em 2020, novamente com parceria do Instituto Serrapilheira. A maior parte das [palestras e apresentações](https://www.youtube.com/playlist?list=PL8cs9ve1MnDVUWxiAloiwdfki2k_Eauix), assim como as [palestras da nossa pré-Hack Week](https://www.youtube.com/playlist?list=PL8cs9ve1MnDWoH5jIGAc9WsQtgGAI1WC_) estão disponíveis no [nosso canal do YouTube](https://www.youtube.com/channel/UCZdTWlmSp9eSCgXKtCyRiyA). Um resumo dos projetos desenvolvidos pode ser lida no [nosso post de wrap-up](ADICIONAR LINK) e os [dados e apresentações estão na Open Science Framework](https://osf.io/s8bmp/).
+A segunda edição foi realizada de forma remota, em 2020, novamente com parceria do Instituto Serrapilheira. Dessa vez, foram mais de 25 pessoas, de todo o país, desenvolvendo projetos em colaboração. A maior parte das [palestras e apresentações](https://www.youtube.com/playlist?list=PL8cs9ve1MnDVUWxiAloiwdfki2k_Eauix), assim como as [palestras da nossa pré-Hack Week](https://www.youtube.com/playlist?list=PL8cs9ve1MnDWoH5jIGAc9WsQtgGAI1WC_) estão disponíveis no [nosso canal do YouTube](https://www.youtube.com/channel/UCZdTWlmSp9eSCgXKtCyRiyA). Um resumo dos projetos desenvolvidos pode ser lida no [nosso post de wrap-up](ADICIONAR LINK) e os [dados e apresentações estão na Open Science Framework](https://osf.io/s8bmp/).
 
 Para a edição remota, desenvolvemos também um [guia de trabalho remoto para cientistas brasileiros](ADICIONAR LINK).
 
