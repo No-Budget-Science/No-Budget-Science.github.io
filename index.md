@@ -18,7 +18,7 @@ A primeira edição da No-Budget Science Hack Week ocorreu no Rio de Janeiro, em
 
 A segunda edição foi realizada de forma remota, em 2020, novamente com parceria do Instituto Serrapilheira. Dessa vez, foram mais de 25 pessoas, de todo o país, desenvolvendo projetos em colaboração. A maior parte das [palestras e apresentações](https://www.youtube.com/playlist?list=PL8cs9ve1MnDVUWxiAloiwdfki2k_Eauix), assim como as [palestras da nossa pré-Hack Week](https://www.youtube.com/playlist?list=PL8cs9ve1MnDWoH5jIGAc9WsQtgGAI1WC_) estão disponíveis no [nosso canal do YouTube](https://www.youtube.com/channel/UCZdTWlmSp9eSCgXKtCyRiyA). Um resumo dos projetos desenvolvidos pode ser lida no [nosso post de wrap-up](ADICIONAR LINK) e os [dados e apresentações estão na Open Science Framework](https://osf.io/s8bmp/).
 
-Para a edição remota, desenvolvemos também um [guia de trabalho remoto para cientistas brasileiros](ADICIONAR LINK).
+Para a edição remota, desenvolvemos também um [guia de trabalho remoto para cientistas brasileiros](trabalho-remoto.html).
 
 ### Equipe
 
