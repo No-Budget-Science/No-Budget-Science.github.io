@@ -14,7 +14,9 @@ Para saber mais sobre os eventos, acesse a nossa página no [Facebook](facebook.
 
 A primeira edição da No-Budget Science Hack Week ocorreu no Rio de Janeiro, em 2019, com atividades divididas entre o Instituto D’Or e a UFRJ, com apoio de programas de pós-graduação da UFRJ e do [Instituto Serrapilheira](https://serrapilheira.org/). Dezoito participantes de diversos estados do Brasil, de estudantes de graduação a pós-doutorandos, integraram os grupos, que durante uma semana desenvolveram suas [ideias de projeto](ADICIONAR LINK). Você pode ver nessa playlist [as palestras do evento de lançamento](https://www.youtube.com/playlist?list=PLfID5M8U8w5vmaLJmWgl42xW0tfWWJW9-).
 
-A segunda edição foi realizada de forma remota, em 2020, novamente com parceria do Instituto Serrapilheira. A maior parte das [palestras e apresentações](https://www.youtube.com/playlist?list=PL8cs9ve1MnDVUWxiAloiwdfki2k_Eauix), assim como as [palestras da nossa pré-Hack Week](https://www.youtube.com/playlist?list=PL8cs9ve1MnDWoH5jIGAc9WsQtgGAI1WC_) estão disponíveis no [nosso canal do YouTube](https://www.youtube.com/channel/UCZdTWlmSp9eSCgXKtCyRiyA). Um resumo dos projetos desenvolvidos pode ser lida no [nosso post de wrap-up](ADICIONAR LINK).
+A segunda edição foi realizada de forma remota, em 2020, novamente com parceria do Instituto Serrapilheira. A maior parte das [palestras e apresentações](https://www.youtube.com/playlist?list=PL8cs9ve1MnDVUWxiAloiwdfki2k_Eauix), assim como as [palestras da nossa pré-Hack Week](https://www.youtube.com/playlist?list=PL8cs9ve1MnDWoH5jIGAc9WsQtgGAI1WC_) estão disponíveis no [nosso canal do YouTube](https://www.youtube.com/channel/UCZdTWlmSp9eSCgXKtCyRiyA). Um resumo dos projetos desenvolvidos pode ser lida no [nosso post de wrap-up](ADICIONAR LINK) e os [dados e apresentações estão na Open Science Framework](https://osf.io/s8bmp/).
+
+Para a edição remota, desenvolvemos também um [guia de trabalho remoto para cientistas brasileiros](ADICIONAR LINK).
 
 ### Equipe
 
