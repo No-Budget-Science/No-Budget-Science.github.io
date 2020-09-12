@@ -10,7 +10,9 @@ Apesar do interesse da comunidade acadêmica local pelos assuntos abordados, fic
 
 ### Encontros
 
-Para saber mais sobre os eventos, acesse a nossa página no [Facebook](facebook.com/nobudgetscience/). Lá você encontrará a nossa comunidade, além de vários vídeos de edições anteriores. Durante os 3 anos do evento, os encontros passaram por temas como redes sociais, preprints, co-autoria, ciência e público, revisões sistemáticas, ensino, inovação, futebol e uso de dados públicos.
+Durante os 3 anos do evento, sempre com cerveja financiada pelas contribuições da própria audiência (e do [Olavo](equipe.html)), os encontros passaram por temas como redes sociais, preprints, co-autoria, ciência e público, revisões sistemáticas, ensino, inovação, futebol e uso de dados públicos.
+
+Para saber mais sobre os eventos, acesse a nossa página no [Facebook](facebook.com/nobudgetscience/). Lá você encontrará a nossa comunidade, além de vários vídeos de edições anteriores. 
 
 ### Hack Weeks
 
@@ -25,3 +27,7 @@ Para a edição remota, desenvolvemos também um [guia de trabalho remoto para c
 ### Equipe
 
 Saiba mais sobre quem já fez parte da [comissão organizadora do No-Budget Science](equipe.html).
+
+### Redes sociais
+
+O No-Budget Science está no [Facebook](https://www.facebook.com/nobudgetscience), [YouTube](https://www.youtube.com/channel/UCZdTWlmSp9eSCgXKtCyRiyA) e [Instagram](https://www.instagram.com/nobudgetscience).
