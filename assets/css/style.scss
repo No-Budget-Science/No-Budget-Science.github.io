@@ -4,10 +4,13 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
 
-header {
+header div {
     font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, serif;
-    background: #2e7bcf url(../../nbs-logo.png) 0 0 no-repeat;
-    font-color: #2e7bcf;
+    background: #2e7bcf url(../../nbs-logo.png) 0.67em 0 no-repeat;
+}
+
+header h1 {
+    color: #2e7bcf;
 }
 
 h1, h2, h3, h4, h5, h6 {
