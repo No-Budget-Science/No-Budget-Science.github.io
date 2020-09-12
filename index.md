@@ -1,7 +1,5 @@
 ## No-Budget Science
 
-![No-Budget Science Logo](nbs-logo.png "No-Budget Science Logo")
-
 O No-Budget Science começou como um encontro regular organizado de 2016 a 2019 no Centro de Ciências de Saúde da Universidade Federal do Rio de Janeiro. Os eventos promoviam discussões sobre projetos em ciências biomédicas que pudessem ser executados sem grandes custos e sem experimentos de bancada - daí o nome "no-budget" e o slogan "um laptop na mão e uma ideia na cabeça".
 
 Uma das motivações para a criação do evento foi possibilitar o encontro de pessoas interessadas em trabalhar em projetos científicos fora da bancada. Havia em nós uma preocupação com o aumento no número de publicações ao longo dos anos, tornando urgente a tarefa de sintetizar dados de pesquisa em informação útil. Ao longo das edições, tornou-se clara a necessidade de discutirmos também as condições necessárias para tais projetos prosperarem, como transparência, reprodutibilidade e reformas no sistema de publicação.
