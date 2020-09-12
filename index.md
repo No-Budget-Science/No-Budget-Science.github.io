@@ -24,4 +24,4 @@ Para a edição remota, desenvolvemos também um [guia de trabalho remoto para c
 
 ### Equipe
 
-Saiba mais sobre quem já fez parte da [comissão organizadora do No-Budget Science](ADICIONAR LINK).
+Saiba mais sobre quem já fez parte da [comissão organizadora do No-Budget Science](equipe.html).
