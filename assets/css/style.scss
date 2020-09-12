@@ -2,5 +2,9 @@
 ---
 
 @import "";
+ @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
 
-$headings-font-family: $font-family-sans-serif;
+header {
+    font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, serif;
+    background: #2e7bcf;
+}
