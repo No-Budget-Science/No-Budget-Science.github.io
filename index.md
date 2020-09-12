@@ -29,3 +29,5 @@ Saiba mais sobre quem já fez parte da [comissão organizadora do No-Budget Scie
 ### Redes sociais
 
 O No-Budget Science está no [Facebook](https://www.facebook.com/nobudgetscience), [YouTube](https://www.youtube.com/channel/UCZdTWlmSp9eSCgXKtCyRiyA) e [Instagram](https://www.instagram.com/nobudgetscience).
+
+*Essa página foi gerada com o GitHub Pages](https://pages.github.com)*
