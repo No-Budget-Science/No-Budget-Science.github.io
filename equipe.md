@@ -1,6 +1,6 @@
 ## Equipe
 
-O No-Budget Science foi idealizado e é coordenado até hoje por Olavo Amaral, professor do Instituto de Bioquímica Médica da UFRJ. A equipe começou com Clarissa Carneiro, Lucas Brouck, Thiago Moulin e Kleber Neves.
+O No-Budget Science foi idealizado e é coordenado até hoje por Olavo Amaral, professor do Instituto de Bioquímica Médica da UFRJ. A equipe que começou a organizar os eventos, ainda em 2016, contava com Clarissa Carneiro, Lucas Brouck, Thiago Moulin e Kleber Neves.
 
 Fomos brevemente patrocinados, via Patrícia Bado e Frederico Reis, pela [Entropia Coletiva](https://www.youtube.com/watch?v=Od4lDndTx14), uma empresa de financiamento coletivo para projetos científicos.
 
