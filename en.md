@@ -24,7 +24,7 @@ For the remote edition, we also developed a [remote work guide for Brazilian sci
 
 ### Team
 
-Learn about our [team of organizers](equipe.html).
+Learn about our [team of organizers (Portuguese)](equipe.html).
 
 ### Social Networks
 
