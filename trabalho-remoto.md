@@ -5,6 +5,8 @@ Trabalho remoto é uma tendência recente e para muitas pessoas na academia é u
 
 __Saber trabalhar remotamente é uma habilidade transferível importante__, dentro ou fora da academia. Existe uma tendência no mercado de trabalho na direção de trabalho remoto - sem dúvida impulsionada pela necessidade [durante a pandemia][3]. As vantagens mais claras são fugir do translado diário casa-trabalho, ter horários flexíveis e não ter que se mudar por causa de uma oportunidade de emprego (na Estônia, você pode ser [nômade digital][4]). Pra quem contrata, a vantagem é não ter que manter um espaço físico e poder contratar de qualquer lugar do mundo. 
 
+teste 
+
 A academia parece estar no mesmo caminho: apesar de muitos pesquisadores terem sido apresentados ao trabalho remoto recentemente, a [discussão na academia][5] [vem de antes][6]. Além disso, mesmo quando o trabalho é fisicamente localizado (e.g. experimentos de bancada), ainda existem aspectos e momentos remotos do trabalho (e.g. escrever artigos, teses, planejar experimentos). E muitas das dicas desse guia são úteis para refletir sobre o nosso jeito de trabalhar, seja ele localizado ou remoto.
 
 #### Funcionando assincronamente
