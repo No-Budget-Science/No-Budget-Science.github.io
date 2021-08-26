@@ -56,11 +56,7 @@ Este guia foi pensado para abarcar o maior número possível de cientistas brasi
 ### Organização de arquivos na prática
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![image](https://user-images.githubusercontent.com/7917951/131017496-0e71763b-8d80-42c6-a413-2fe66e1da09d.png)
 
 
 
