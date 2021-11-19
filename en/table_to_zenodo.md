@@ -1,8 +1,8 @@
 #  How to publish your biocuration spreadsheet on Zenodo
 
 A biocuration spreadsheet in this situation is a table that came from a curation effort. The end goal is to have a table published on Zenodo, like: 
-- https://zenodo.org/record/4589519#.YIDHRnVKi00
-- https://zenodo.org/record/4631221#.YIDHR3VKi00
+- [https://zenodo.org/record/4589519#.YIDHRnVKi00](https://zenodo.org/record/4589519#.YIDHRnVKi00)
+- [https://zenodo.org/record/4631221#.YIDHR3VKi00](https://zenodo.org/record/4631221#.YIDHR3VKi00)
 
 ![image](https://user-images.githubusercontent.com/7917951/142673342-58ecdf6f-8841-4761-a817-49af02e2df30.png)
 
@@ -43,7 +43,7 @@ __Columns__:
 ## Uploading to Zenodo:
   Download your table  in the format of preference. If you are using Excel/Google Sheets, we recommend two formats: _.xlsx_ and _.tsv_ format.The _.tsv_ format is more machine readable, while .xlsx (the Excel format) is more common among human beings.  
   
-  On https://zenodo.org/:
+  On [https://zenodo.org/](https://zenodo.org/):
   - Login or sign up (you may login with your ORCID)
   - Click on _Upload_ (on the top) 
 
@@ -68,7 +68,7 @@ For that you will have to upload a file containing the CC0 license text and stat
   - Click "Save" and click "Publish". 
 
 Congratulations, you've made the world a bit better! Now the dataset is openly available. Also jot a DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4573573.svg)](https://doi.org/10.5281/zenodo.4573573), 
-can be shared: https://zenodo.org/record/4573573#.YD5TG3VKi00 and will soon be indexed and visible to [Google Dataset Search](https://datasetsearch.research.google.com/). 
+thus it can be shared and cited, and will soon be indexed and visible to [Google Dataset Search](https://datasetsearch.research.google.com/). 
 
 ![image](https://user-images.githubusercontent.com/7917951/142674268-25eaf281-01a5-493a-8798-a42fe618ba9b.png)
 
@@ -90,7 +90,7 @@ One modern advancement is the use of Universal Resource Identifiers to map conce
 This technique is on the base of virtually all biomedical ontologies, like the Gene Ontology. 
 Wikidata is an open, general-use knowledgebase where people can find (and create!) identifiers for their concepts of interest.
 
-Wikidata is linked to thousands of other bases. 
+[Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) is linked to thousands of other bases. 
 Thus, linking to Wikidata effectively raises the information to state-of-the-art information sharing, or what Tim Berner-Lee (the inventor of the web) would call 5- star linked ofen data. 
 
 First we need to choose which columns to reconcile to Wikidata. 
@@ -138,7 +138,7 @@ I won't change the ones that are already there. What I do, then is :
 
 * Upload the new files (a "wikidata_reconciled" sheet and the .xlsx). ("Choose Files" + "Start Upload")
 * Add the new column details the Zenodo description.  
-* Add the link to the Google Sheet: https://docs.google.com/spreadsheets/d/1LjF4h8n6Sy4PgTJoC-fJ7mGnqGCvqmWiatf2zD-5RM8. 
+* Add the link to the Google Sheet: [https://docs.google.com/spreadsheets/d/1LjF4h8n6Sy4PgTJoC-fJ7mGnqGCvqmWiatf2zD-5RM8](https://docs.google.com/spreadsheets/d/1LjF4h8n6Sy4PgTJoC-fJ7mGnqGCvqmWiatf2zD-5RM8). 
 * Bump the file version to 1.1 
 
 - Click "Save"
@@ -190,7 +190,7 @@ Now we can use the Wikidata query system and the ontological structure to make v
 
 For example, let's look for articles about any neurodegenerative disease and their external datasets. 
 
-For that, we build a query in the SPARQL language at https://query.wikidata.org>, which can be acessed here: https://w.wiki/34rP. 
+For that, we build a query in the SPARQL language at <https://query.wikidata.org>, which can be acessed here: <https://w.wiki/34rP>. 
 
 <iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3Fitem%20%3FitemLabel%20%3FdiseaseLabel%20%3Fdata%0AWHERE%20%0A%7B%0A%20%20%3Fitem%20wdt%3AP921%20%3Fdisease.%0A%20%20%3Fdisease%20wdt%3AP279%2a%20wd%3AQ1755122.%0A%20%20%3Fitem%20wdt%3AP1325%20%3Fdata.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" ></iframe>
 
