@@ -3,16 +3,16 @@
 
 Com a tendência de trabalho remoto [trazida pela pandemia][1] - sem muito aviso prévio e tempo de preparação - criamos um [guia para descrever princípios em torno dos quais o trabalho remoto funciona](./trabalho-remoto.html), com foco nas dinâmicas de grupos de pesquisa, em particular pesquisa "no-budget" ([na nossa definição][2]).
 
-Com o ralentar da pandemia, estamos nos encontrando presencialmente cada vez mais. Contudo, muitos dos princípios aprendidos podem facilitar nossa vida híbrida, de encontros presenciais e continuidades virtuais. 
+Com o arrefecimento da pandemia, estamos nos encontrando presencialmente cada vez mais. Contudo, muitos dos princípios aprendidos durante este período de trabalho remoto podem facilitar nossa vida híbrida, de encontros presenciais e continuidades virtuais. 
 Convenhamos: nenhum cientista hoje trabalha só presencial; o computador, os e-mails e as reuniões virtuais são parte permanente de nossa vida.
-Daí vem essa adaptação do Guia de Trabalho Remoto para um Trabalho Híbrido, adaptando os aprendizados.  
+Com isso, fizemos essa adaptação do Guia de Trabalho Remoto para um Trabalho Híbrido, adaptando os aprendizados.  
 
 
 Como pontuado no guia original, mesmo quando o trabalho é fisicamente localizado (e.g. experimentos de bancada), ainda existem aspectos e momentos remotos do trabalho (e.g. escrever artigos, teses, planejar experimentos). E muitas das dicas desse guia são úteis para refletir sobre o nosso jeito de trabalhar, seja ele localizado ou remoto.
 
 #### Funcionando assincronamente
 
-Talvez o princípio central do trabalho remoto seja a assincronia. Num laboratório, você teria as pessoas trabalhando ao mesmo tempo. Remotamente, você tem que trabalhar como se todos as pessoas que trabalham com você estivessem dormindo (e reciprocamente, como se você fosse estar dormindo quando elas estiverem trabalhando). Pra isso funcionar, entram os outros princípios abaixo. 
+Talvez o princípio central do trabalho remoto seja a assincronia. Numa sede presencial, você tem as pessoas trabalhando ao mesmo tempo. Remotamente, você tem que trabalhar como se todos as pessoas que trabalham com você estivessem dormindo (e reciprocamente, como se você fosse estar dormindo quando elas estiverem trabalhando). Pra isso funcionar, entram os outros princípios abaixo. 
 
 #### Responsabilidade vale mais que rigidez
 
@@ -20,8 +20,8 @@ Se não tem ninguém do seu lado olhando se você foi ao trabalho ou não, a res
 
 - __Horário de trabalho flexível__: você pode trabalhar [quando e como preferir][7] sem que te julguem por essas escolhas. E claro, você não deve julgar as escolhas de horários das outras pessoas.
 
-Claro, com atividades presenciais isso é limitado, pois há um momento síncrono, onde todos devem estar presentes. 
-O princípio, entretanto, ainda vale para todas as tarefas feitas de forma virtual. Ou seja, o componente remoto requer flexibilidade. 
+Com atividades presenciais, este conceito é mais limitado, pois há momentos síncronos onde todos devem estar presentes. 
+O princípio, entretanto, ainda vale para as tarefas feitas de forma virtual. Ou seja, o componente remoto requer flexibilidade. 
 
 - __Horário de descanso flexível__: quando remotamente, também cabe a você dizer quando você precisa de um intervalo, descanso ou quando parar de trabalhar - e descanso é essencial pra produtividade.
   O corolário disso é que o que importa são os resultados obtidos e não a quantidade de horas trabalhadas (e muito menos exatamente que horas foram trabalhadas).
@@ -35,7 +35,7 @@ Note que isso vale não somente para o trabalho remoto, mas sempre que há algum
 
 - __Proatividade__: na área do trabalho remoto, se você não pode consultar colegas em tempo real antes de uma decisão, __é importante que você tome as decisões - desde que elas sejam fáceis de reverter__. Deixe pra discutir e deliberar longamente só sobre as decisões que tem um custo alto para serem desfeitas. Na Wikipédia, existe um princípio análogo, o ["be bold"][8].
 
-Presencialmente há mais flexibilidade para discussões, mas ainda tome cuidado. Decisões que não afetem drasticamente o projeto podem ser tomadas com um pouco mais de segurança, e caso seja necessário discutir, prepare bem a discussão e mantenha o foco. É muito fácil cair em ["bike-shedding](https://pt.wikipedia.org/wiki/Lei_da_trivialidade). 
+Presencialmente há mais flexibilidade para discussões, mas ainda tome cuidado. Decisões que não afetem drasticamente o projeto podem ser tomadas com um pouco mais de segurança, e caso seja necessário discutir, prepare bem a discussão e mantenha o foco. É muito fácil cair em ["bike-shedding"](https://pt.wikipedia.org/wiki/Lei_da_trivialidade). 
 
 - __Preocupação com ergonomia__: mesmo no trabalho presencial, vale se preocupar com a sua postura e condição de trabalho também (passar horas ininterruptas em frente ao computador vai ter um custo lá na frente). [O guia de bem-estar da Society for BioCuration tem boas dicas][9].
 
@@ -44,24 +44,24 @@ Presencialmente há mais flexibilidade para discussões, mas ainda tome cuidado.
 
 Mesmo tendo pessoas pra consultar sobre como proceder na situação Y ou qual a versão atual do arquivo X ou de onde veio o dado Z, é importante que tudo isso esteja documentado (assim as pessoas podem ler a documentação quando você estiver dormindo).
 
-- Se alguém tem uma dúvida, ela pode aparecer de novo e a pessoa que sabe a resposta vai estar dormindo. __Em vez de explicar algo somente verbalmente ou por mensagem, documente__. O tempo gasto com documentação sempre é recuperado no futuro, e com sobra.
+- Se alguém tem uma dúvida, ela pode aparecer de novo e a pessoa que sabe a resposta vai estar dormindo. __Em vez de explicar algo somente verbalmente ou por mensagem, documente__. O tempo gasto com documentação quase sempre é recuperado no futuro, e com sobra.
 - Um princípio (mais extremo) é que se alguma coisa não está na documentação ou nos protocolos, essa coisa não existe.
 - Um outro princípio é documentar de modo que uma pessoa que desconheça os procedimentos consiga, só a partir da documentação, se integrar ao trabalho da equipe sem grandes problemas ou refazer os seus passos pra chegar no mesmo resultado. 
 Esse princípio não é hipotético: caso alguma pessoa nova entre na equipe ou alguém comece a lidar com uma tarefa nova, __uma boa documentação vai poupar a necessidade de alguém ter que explicar tudo novamente, do zero__.
-- Uma boa opção para documentação aberta que inclua dados de pesquisa  o Open Science Framework (OSF). Se você está quiser criar uma conta na OSF, [clique aqui][11].
+- Uma boa opção para documentação aberta que inclua dados de pesquisa é a Open Science Framework (OSF). Se você está quiser criar uma conta na OSF, [clique aqui][11].
 - Independente de onde a documentação for feita,  é importante que esteja sempre atualizada, e no mínimo sirva de índice. __Crie uma lista de links para os recursos do projeto__: outras páginas, documentos compartilhados, pads, código, etc. A ideia é que a partir dessa página central seja possível achar tudo que for necessário para trabalhar no projeto.
-- Finalmente, uma boa documentação aberta já é um produto mensurável do seu trabalho, e irá facilitar sua vida no futuro quanto tiver que falar sobre o trabalho, seja falando com a mídia, seja na hora de publicar um artigo científico. 
+- Finalmente, uma boa documentação aberta já é um produto mensurável do seu trabalho, e irá facilitar sua vida no futuro quanto tiver que falar sobre o trabalho, seja para falar com a mídia, publicar um artigo científico ou incorporar alguém novo ao projeto. 
 
 #### Comunicação
 
-Comunicação por texto  é desprovido das nuances de linguagem não-verbal.
+A comunicação por texto é desprovida das nuances de linguagem não-verbal.
 Ao trocar dos diálogos verbais para os textuais, é central usar bem os meios de comunicação, para prevenir que as expectativas mal-comunicadas estraguem tanto o trabalho quanto as relações interpessoais.
 
 - Quando distantes, considere que __todo mundo está dormindo__, então não espere respostas imediatas.
 - Use emojis. Isso lembra as pessoas que parte da mensagem não é transmissível por canais puramente textuais. E [assuma a boa intenção das pessoas][12].
 
 - Existem várias funções diferentes dentro do guarda-chuva "comunicação". E existem canais e condições apropriadas pra cada uma (que por sua vez, tem que ser comunicados de antemão).
-- __Comunicação formal__: contratos, documentos, certificados e afins. Para isso, o e-mail  uma boa opção, pois tem maior estabilidade, e já está em uso corrente (inclusive em âmbito legal) há décadas.
+- __Comunicação formal__: contratos, documentos, certificados e afins. Para isso, o e-mail é uma boa opção, pois tem maior estabilidade, e já está em uso corrente (inclusive em âmbito legal) há décadas.
 
 - __Comunicação não-relacionada ao projeto ou comunicação imediata__: pra isso recomendamos falar ao vivo, olho no olho, talvez com um cafézinho ou uma cerveja. Caso não seja possível, Telegram, WhatsApp e afins funcionam. 
 
@@ -79,8 +79,8 @@ Existem [argumentos contra reuniões][14] mesmo em ambientes co-localizados de t
 - __Use reuniões (seja por vídeo ou presenciais) como último recurso__.
 - Não marque reuniões [desnecessariamente][15] (e tudo bem desmarcar reuniões que não são mais necessárias).
 - Por exemplo, se alguém tem que fazer uma apresentação pra demonstrar como usar uma ferramenta, uma boa opção é gravar um vídeo antes, garantindo sucesso e permitindo cada um assistir no seu tempo. A reunião pode até ser encurtada e ter apenas as perguntas/discussão sobre a apresentação. 
-Brainstorming não precisa de todo mundo junto, pode ser por um documento compartilhado (veja a seção de ferramentas no final). 
-Atualizações regulares do projeto podem ser dados por escrito (dá até pra gerar lembretes).
+- Brainstormings não precisam necessariamente de todo mundo junto, e podem ser por um documento compartilhado (veja a seção de ferramentas no final). Dito isso, são uma situação em que a presencialidade ajuda.
+- Atualizações regulares do projeto podem ser dados por escrito (dá até pra gerar lembretes).
 - Vale lembrar também que reuniões são ruins por outras razões (por exemplo, não são buscáveis - é difícil saber o que alguém falou sem reassistir o vídeo). Isso nos leva ao próximo tópico.
 
 #### Como fazer reuniões
@@ -151,7 +151,7 @@ Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Contudo, 
 #### Conclusão
 
 Esse guia se baseia na nossa experiência (não muito vasta) com trabalho remoto colaborativo e em diversos outros guias e ensaios sobre trabalho remoto (linkados no texto). 
-Ele foi originalmente pensado para um evento de "mutirão" de  projetos científicos virtuais, a [No Budget Science Hack Week 2020][2], que aconteceu em agosto de 2020, onde muitas dessas ideias foram testadas. 
+Ele foi originalmente pensado para um evento de "mutirão" de  projetos científicos virtuais, a [No Budget Science Hack Week][2], que aconteceu de forma virtual em 2020 e 2021, onde muitas dessas ideias foram testadas. 
 Se quiserem ver o Guia de Trabalho Remoto voltado para o evento está disponível no [Open Science Framework][38]. Em particular, aprendemos muito com o material da [GitLab][34], [Zapier][35], [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines), [Friday.app][36] e [Twist][37] - preparar esse guia foi um grande aprendizado e mudou nossa própria opinião sobre como trabalhar remotamente (e não remotamente).
 
 Kleber Neves e Tiago Lubiana
