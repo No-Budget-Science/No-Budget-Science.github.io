@@ -3,39 +3,11 @@
 
 Com a tendência de trabalho remoto [trazida pela pandemia][1] - sem muito aviso prévio e tempo de preparação - criamos um [guia para descrever princípios em torno dos quais o trabalho remoto funciona](./trabalho-remoto.html), com foco nas dinâmicas de grupos de pesquisa, em particular pesquisa "no-budget" ([na nossa definição][2]).
 
-Com o arrefecimento da pandemia, estamos nos encontrando presencialmente cada vez mais. Contudo, muitos dos princípios aprendidos durante este período de trabalho remoto podem facilitar nossa vida híbrida, de encontros presenciais e continuidades virtuais. 
-Convenhamos: nenhum cientista hoje trabalha só presencial; o computador, os e-mails e as reuniões virtuais são parte permanente de nossa vida.
-Com isso, fizemos essa adaptação do Guia de Trabalho Remoto para um Trabalho Híbrido, adaptando os aprendizados.  
+Com o arrefecimento da pandemia, estamos nos encontrando presencialmente cada vez mais. Contudo, muitos dos princípios aprendidos durante este período de trabalho remoto podem facilitar nossa vida híbrida, de encontros presenciais e continuidades virtuais. Como pontuado no guia original, mesmo quando o trabalho é fisicamente localizado (e.g. experimentos de bancada), ainda existem aspectos e momentos remotos do trabalho (e.g. escrever artigos, teses, planejar experimentos). E muitas das dicas desse guia são úteis para refletir sobre o nosso jeito de trabalhar, seja ele localizado ou remoto.
 
+#### Princípios gerais
 
-Como pontuado no guia original, mesmo quando o trabalho é fisicamente localizado (e.g. experimentos de bancada), ainda existem aspectos e momentos remotos do trabalho (e.g. escrever artigos, teses, planejar experimentos). E muitas das dicas desse guia são úteis para refletir sobre o nosso jeito de trabalhar, seja ele localizado ou remoto.
-
-#### Funcionando assincronamente
-
-Talvez o princípio central do trabalho remoto seja a assincronia. Numa sede presencial, você tem as pessoas trabalhando ao mesmo tempo. Remotamente, você tem que trabalhar como se todos as pessoas que trabalham com você estivessem dormindo (e reciprocamente, como se você fosse estar dormindo quando elas estiverem trabalhando). Pra isso funcionar, entram os outros princípios abaixo. 
-
-#### Responsabilidade vale mais que rigidez
-
-Se não tem ninguém do seu lado olhando se você foi ao trabalho ou não, a responsabilidade sobre como e quando você trabalha é toda sua. Isso significa:
-
-- __Horário de trabalho flexível__: você pode trabalhar [quando e como preferir][7] sem que te julguem por essas escolhas. E claro, você não deve julgar as escolhas de horários das outras pessoas.
-
-Com atividades presenciais, este conceito é mais limitado, pois há momentos síncronos onde todos devem estar presentes. 
-O princípio, entretanto, ainda vale para as tarefas feitas de forma virtual. Ou seja, o componente remoto requer flexibilidade. 
-
-- __Horário de descanso flexível__: quando remotamente, também cabe a você dizer quando você precisa de um intervalo, descanso ou quando parar de trabalhar - e descanso é essencial pra produtividade.
-  O corolário disso é que o que importa são os resultados obtidos e não a quantidade de horas trabalhadas (e muito menos exatamente que horas foram trabalhadas).
-
-- __Comunicação com a equipe__: se torna importante avisar dos seus horários de disponibilidade, pra que seu grupo de trabalho possa se planejar quando necessário. Isso é facilmente feito por mensagens ou por status apps como o Slack e o Discord.
-
-Note que isso vale não somente para o trabalho remoto, mas sempre que há alguma flexibilidade é importante. 
-
-- __Comunicação com coabitantes__: dependendo do seu ambiente de trabalho, pode também ser importante você ter um sinal para avisar as pessoas que moram com você quando você está trabalhando (e.g. um chapéu ou uma porta aberta/fechada).
-
-
-- __Proatividade__: na área do trabalho remoto, se você não pode consultar colegas em tempo real antes de uma decisão, __é importante que você tome as decisões - desde que elas sejam fáceis de reverter__. Deixe pra discutir e deliberar longamente só sobre as decisões que tem um custo alto para serem desfeitas. Na Wikipédia, existe um princípio análogo, o ["be bold"][8].
-
-Presencialmente há mais flexibilidade para discussões, mas ainda tome cuidado. Decisões que não afetem drasticamente o projeto podem ser tomadas com um pouco mais de segurança, e caso seja necessário discutir, prepare bem a discussão e mantenha o foco. É muito fácil cair em ["bike-shedding"](https://pt.wikipedia.org/wiki/Lei_da_trivialidade). 
+- __Proatividade__: Presencialmente há mais flexibilidade para discussões, mas ainda tome cuidado. Decisões que não afetem drasticamente o projeto podem ser tomadas com um pouco mais de segurança, e caso seja necessário discutir, prepare bem a discussão e mantenha o foco. É muito fácil cair em ["bike-shedding"](https://pt.wikipedia.org/wiki/Lei_da_trivialidade). 
 
 - __Preocupação com ergonomia__: mesmo no trabalho presencial, vale se preocupar com a sua postura e condição de trabalho também (passar horas ininterruptas em frente ao computador vai ter um custo lá na frente). [O guia de bem-estar da Society for BioCuration tem boas dicas][9].
 
@@ -44,37 +16,31 @@ Presencialmente há mais flexibilidade para discussões, mas ainda tome cuidado.
 
 Mesmo tendo pessoas pra consultar sobre como proceder na situação Y ou qual a versão atual do arquivo X ou de onde veio o dado Z, é importante que tudo isso esteja documentado (assim as pessoas podem ler a documentação quando você estiver dormindo).
 
-- Se alguém tem uma dúvida, ela pode aparecer de novo e a pessoa que sabe a resposta vai estar dormindo. __Em vez de explicar algo somente verbalmente ou por mensagem, documente__. O tempo gasto com documentação quase sempre é recuperado no futuro, e com sobra.
-- Um princípio (mais extremo) é que se alguma coisa não está na documentação ou nos protocolos, essa coisa não existe.
-- Um outro princípio é documentar de modo que uma pessoa que desconheça os procedimentos consiga, só a partir da documentação, se integrar ao trabalho da equipe sem grandes problemas ou refazer os seus passos pra chegar no mesmo resultado. 
+-  __Em vez de explicar algo somente verbalmente ou por mensagem, documente__. O tempo gasto com documentação quase sempre é recuperado no futuro, e com sobra. Vale criar um documento para Perguntas Frequentes do seu grupo, com links e afins, por exemplo. Criar tutoriais, escritos ou em vídeo, mesmo que para coisas simples ou que já tenham tutoriais, pode ser de grande valor para a comunidade. 
+- Um princípio é documentar de modo que uma pessoa que desconheça os procedimentos consiga, só a partir da documentação, se integrar ao trabalho da equipe sem grandes problemas ou refazer os seus passos pra chegar no mesmo resultado. 
 Esse princípio não é hipotético: caso alguma pessoa nova entre na equipe ou alguém comece a lidar com uma tarefa nova, __uma boa documentação vai poupar a necessidade de alguém ter que explicar tudo novamente, do zero__.
-- Uma boa opção para documentação aberta que inclua dados de pesquisa é a Open Science Framework (OSF). Se você está quiser criar uma conta na OSF, [clique aqui][11].
-- Independente de onde a documentação for feita,  é importante que esteja sempre atualizada, e no mínimo sirva de índice. __Crie uma lista de links para os recursos do projeto__: outras páginas, documentos compartilhados, pads, código, etc. A ideia é que a partir dessa página central seja possível achar tudo que for necessário para trabalhar no projeto.
+- Uma boa opção para documentação aberta que inclua dados de pesquisa é a Open Science Framework (OSF). Se você está quiser criar uma conta na OSF, [clique aqui][11]. Mas a melhor documentação sempre vai ser aquela que é feita; então é bem importante escolher uma ferramenta que seja confortável para todos os participantes da equipe, seja um GitHub, seja um Google Docs, seja uma Wiki. 
+- __Crie uma lista de links para os recursos do projeto__: outras páginas, documentos compartilhados, pads, código, etc. A ideia é que a partir dessa página central seja possível achar tudo que for necessário para trabalhar no projeto.
 - Finalmente, uma boa documentação aberta já é um produto mensurável do seu trabalho, e irá facilitar sua vida no futuro quanto tiver que falar sobre o trabalho, seja para falar com a mídia, publicar um artigo científico ou incorporar alguém novo ao projeto. 
 
 #### Comunicação
 
-A comunicação por texto é desprovida das nuances de linguagem não-verbal.
-Ao trocar dos diálogos verbais para os textuais, é central usar bem os meios de comunicação, para prevenir que as expectativas mal-comunicadas estraguem tanto o trabalho quanto as relações interpessoais.
-
-- Quando distantes, considere que __todo mundo está dormindo__, então não espere respostas imediatas.
-- Use emojis. Isso lembra as pessoas que parte da mensagem não é transmissível por canais puramente textuais. E [assuma a boa intenção das pessoas][12].
-
-- Existem várias funções diferentes dentro do guarda-chuva "comunicação". E existem canais e condições apropriadas pra cada uma (que por sua vez, tem que ser comunicados de antemão).
-- __Comunicação formal__: contratos, documentos, certificados e afins. Para isso, o e-mail é uma boa opção, pois tem maior estabilidade, e já está em uso corrente (inclusive em âmbito legal) há décadas.
+Com o contato do presencial, é fácil negligenciar a importancia dos comunicados por escrito. Existem várias funções diferentes dentro do guarda-chuva "comunicação". E existem canais e condições apropriadas pra cada uma (que por sua vez, tem que ser comunicados de antemão).
 
 - __Comunicação não-relacionada ao projeto ou comunicação imediata__: pra isso recomendamos falar ao vivo, olho no olho, talvez com um cafézinho ou uma cerveja. Caso não seja possível, Telegram, WhatsApp e afins funcionam. 
 
 Caso algo apareça no Telegram/WhatsApp que seja de interesse coletivo, vale repassar a mensagem  em algum lugar mais permanente, como via e-mail, no Slack, em um Google Docs, numa Wiki, ou qualquer sistema escolhido previamente pra documentação. 
 
+- __Comunicação formal__: contratos, documentos, certificados e afins. Para isso, o e-mail é uma boa opção, pois tem maior estabilidade, e já está em uso corrente (inclusive em âmbito legal) há décadas.
+
 - Reiterando o que foi dito acima, é importante que questões importantes de trabalho não sejam discutidas meramemente por Telegram/WhatsApp ou ao vivo _sem ata_. Por outro lado, memes, críticas ao chefe e/ou fofocas gerais se encaixam aqui.
 
-- __Comunicação complexa__: quando houverem muitas discordâncias, quando decisões complexas precisam ser tomadas, quando existe algum mal entendido a se resolver, quando os canais de texto não forem suficientes ... Nesses casos, use reuniões por vídeo ou reuniões presenciais (com ressalvas, veja abaixo). 
+- __Comunicação complexa__: quando houverem muitas discordâncias, quando decisões complexas precisam ser tomadas, quando existe algum mal entendido a se resolver, quando os canais de texto não forem suficientes ... Nesses casos, use o recurso das reuniões, lembrando sempre de fazer uma _ata_ (e com ressalvas, veja abaixo). 
 
 #### Reuniões
 Uma piada recorrente do mundo corporativo é ["sobrevivi a mais uma reunião que devia ter sido um email"][13]. 
 Por extensão, um monte de gente deve "sobreviver a emails que deviam ter sido uma mensagem" e "sobreviver a uma enquete quando alguma pessoa devia ter decidido sozinha". 
-Existem [argumentos contra reuniões][14] mesmo em ambientes co-localizados de trabalho.
+Existem [argumentos contra reuniões][14] não só para trabalho remoto, mas também em ambientes co-localizados de trabalho.
 
 - __Use reuniões (seja por vídeo ou presenciais) como último recurso__.
 - Não marque reuniões [desnecessariamente][15] (e tudo bem desmarcar reuniões que não são mais necessárias).
@@ -107,52 +73,33 @@ Para garantir uma experiência agradável e maior eficiência, é bom ter alguma
 
 Pra essa organização funcionar sem conflitos ou obstáculos, como dito acima, é importante que projetos tenham alguma página central de documentação que sirva de índice para os arquivos de trabalho e outras coisas relevantes. 
 Normalmente isso vive na memória das pessoas envolvidas, então é preciso tornar isso explícito. 
-Funções, tarefas e atribuições também devem estar registradas - aqui kanbans são úteis (veja a lista de softwares mais abaixo). 
+
+É uma boa ideia ter, no grupo, uma pessoa designada como "gerente" do projeto, para tomar certas decisões arbitrárias e ajudar a organizar as tarefas de cada um. O foco da gerência deve ser tanto o sucesso do projeto quanto que as pessoas estejam com tarefas que as motivem e sintam que estão aprendendo/produzindo. 
+
 
 #### Lista curada de ferramentas que podem ser úteis
-Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Contudo, cuidado! Há muitas ferramentas e fácil cair em paralisia por análise. Escolha alguma para trabalhar e vá aprendendo sobre as outras com calma. 
+Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Há uma lista mais completa no guia de [trabalho remoto](./trabalho-remoto.html)
 
-**Vídeo-chamadas:**
+Contudo, cuidado! Há muitas ferramentas e fácil cair em paralisia por análise. Escolha alguma para trabalhar e vá aprendendo sobre as outras com calma. Aqui trazemos aqui só algumas que podem valer de forma mais direta para um trabalho presencial.
 
-- [Zoom][20]: é o que todo mundo anda usando, aparentemente. Tem um plano gratuito com algumas limitações. Parece ter superado os problemas de segurança. Funciona no navegador ou baixando o cliente próprio deles para o seu sistema.
-- [Google Meet][21]: tem a vantagem de ser gratuito. Não tem tantos recursos quanto a versão paga do Zoom. Também funciona no navegador.
-- [Jitsi][22]: similar ao Meet, mas com o apelo de ser de código aberto e ter foco em privacidade e segurança. ["Free as in freedom"][23]. Também funciona no navegador, mas há relatos informais sobre lentidão em conversas com muitas pessoas. 
-
-**Comunicação estruturada:**
-
-- [Slack][24]: permite a criação de canais e threads para separar assuntos. Guarda suas mensagens, permite anexos, tem integração com vários outros softwares (e.g. Dropbox, GitHub, etc). Na versão paga, tem também canais de vídeo e voz.
-- [Discord][25]: faz praticamente tudo que o Slack faz e também chamada de vídeo e voz, na versão gratuita. Carrega um pouco da reputação de não ser "sério" porque tem origem na comunidade gamer (embora esteja passando por um rebranding no momento).
-**Repositórios/Documentação:**
+**Repositórios:**
 
 - [Open Science Framework][26]: repositório de dados e documentos para uma ciência mais aberta. Todo projeto na OSF vem com armazenamento e uma wiki. Gratuito, também tem umas conveniências para pesquisa, como fazer pré-registro de protocolos e postar preprints, além de integração com outros serviços (Google Drive, GitHub).
 - [GitHub][27]: o lugar universal _de facto_ pra disponibilizar código. Se você programa ou pretende começar em breve, vale conhecer. Além disso, o GitHub tem diversas ferramentas para gerenciamento de projetos, incluindo "Kanbans" como o Trello (ver abaixo)
 - Wikis: o formato popularizado pela Wikipédia, é excelente pra organizar documentos interligados. GitHub e OSF oferecem wikis como parte do serviço. Criar uma página para o projeto na [Wikiversidade](https://pt.wikiversity.org/wiki/P%C3%A1gina_principal) pode também ser uma boa ideia. 
 
-**Quadros brancos:**
 
-- [Miro](https://miro.com/): O Miro  é uma ferramenta para "brainstorming" e organização de ideias.  A interface tem ótima responsividade e funciona bem para atividades simultâneas, com múltiplos usuários. Dá para adicionar notas, textos, setas, balões e muito mais em um quadro "de borda infinita". A versão gratuita permite poucos quadros, mas serve para fins básicos. 
-- [Mentimeter](https://www.mentimeter.com/) O mentimeter é um "quadro branco colaborativo" para interatividade em reuniões; ele é focado em coleta de opinies em tempo real e gera, por exemplo, resultados de pesquisas e nuvens de palavra em tempo real. 
-
-**Colaboração/Compartilhamento de arquivos:**
+**Anotações/Compartilhamento de arquivos:**
 
 - [Google Drive/Docs][29]: como todo mundo já tem uma conta do Google mesmo, se torna conveniente usar o Drive e os editores associados (Docs, Sheets, Slides) pra trabalhar colaborativamente e compartilhar documentos (e outros arquivos de trabalho).
 - [Dropbox][30]: serviço de armazenamento também bem usado (a versão gratuita dá menos espaço do que o Google Drive). Tem o Dropbox Paper pra trabalho colaborativo (com uns features extra em relação a um documento simples).
 - [OneDrive + Office][31]: a opção da Microsoft para documentos colaborativos e armazenamento.
 - [Wikimedia Etherpad][32]: Pads são arquivos de texto simples e colaborativos, online, em tempo real. O serviço é baseado no Etherpad, que também é [*libre*][33].
 
-**Formulários e enquetes:**
-
- - [Doodle](https://doodle.com/en/): O Doodle é a ferramenta padrão para encontrar horário para reuniões. Cuidado na hora de usar! Normalmente, para reuniões pequenas, é mais fácil alguém escolher um horário, e todos veem se podem ou não. 
-- [When2Meet](https://www.when2meet.com/): Uma versão simplificada do Doodle, tem uma interface mais simples de utilizar. Para reuniões do dia a dia, funciona melhor que o Doodle na nossa experiência.  
-- [Google Forms](https://docs.google.com/forms/u/0/?tgif=d): É fácil de usar, muito conhecido e devolve resultados em diversos formatos. É a opção "feijão com arroz", que funciona bem para a maioria dos casos.
-- [Microsoft Forms](https://forms.office.com/): A opção "feijão com arroz" da Microsft. 
-- [Typeform](https://www.typeform.com/product/): Faz o mesmo que o Google Forms, mas com possibilidades de estilização e "experiência" diferentes. Pode ser uma opção para sair do lugar comum, se desejar. 
-
 #### Conclusão
 
-Esse guia se baseia na nossa experiência (não muito vasta) com trabalho remoto colaborativo e em diversos outros guias e ensaios sobre trabalho remoto (linkados no texto). 
-Ele foi originalmente pensado para um evento de "mutirão" de  projetos científicos virtuais, a [No Budget Science Hack Week][2], que aconteceu de forma virtual em 2020 e 2021, onde muitas dessas ideias foram testadas. 
-Se quiserem ver o Guia de Trabalho Remoto voltado para o evento está disponível no [Open Science Framework][38]. Em particular, aprendemos muito com o material da [GitLab][34], [Zapier][35], [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines), [Friday.app][36] e [Twist][37] - preparar esse guia foi um grande aprendizado e mudou nossa própria opinião sobre como trabalhar remotamente (e não remotamente).
+Esse guia se baseia na nossa experiência (não muito vasta) com trabalho remoto colaborativo e em diversos outros guias e ensaios sobre trabalho remoto (linkados no [texto sobre trabalho remoto]((./trabalho-remoto.html)). 
+Ele foi originalmente pensado para um evento de "mutirão" de  projetos científicos virtuais, a [No Budget Science Hack Week][2], que aconteceu de forma virtual em 2020 e 2021, onde muitas dessas ideias foram testadas. Preparar esse guia foi um grande aprendizado e mudou nossa própria opinião sobre como trabalhar remotamente (e não remotamente).
 
 Kleber Neves e Tiago Lubiana
 
