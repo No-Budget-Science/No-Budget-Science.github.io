@@ -12,7 +12,7 @@ Apesar do interesse da comunidade acadêmica local pelos assuntos abordados, fic
 
 Durante os 3 anos do evento, sempre com cerveja financiada pelas contribuições da própria audiência (e do [Olavo](equipe.html)), os encontros passaram por temas como redes sociais, preprints, co-autoria, ciência e público, revisões sistemáticas, ensino, inovação, futebol e uso de dados públicos.
 
-Para saber mais sobre os eventos, acesse a nossa página no [Facebook](facebook.com/nobudgetscience/). Lá você encontrará a nossa comunidade, além de vários vídeos de edições anteriores. 
+Para saber mais sobre os eventos, acesse a nossa página no [Facebook](https://facebook.com/nobudgetscience/). Lá você encontrará a nossa comunidade, além de vários vídeos de edições anteriores. 
 
 ### Hack Weeks
 
