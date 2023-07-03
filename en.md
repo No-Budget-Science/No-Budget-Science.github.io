@@ -6,6 +6,8 @@ One of the motivations for the event was to facilitate the meeting of people who
 
 Despite the interest of the local academic community in the issues discussed, we felt that the return of the event in terms of actual research projects was not as we expected. This led us to search for a new format. In 2019, 2020 and 2021 we then organized three Hack Weeks - extended hackathons, with some room for training in addition to the development of projects. With this change, we got closer to our initial goal: to foster collaborations in no-budget research projects and independence in young researchers.
 
+You can check out material produced by No-Budget Science events [here](https://docs.google.com/spreadsheets/d/1WgffSO4A2FbRP2zGpI7HfCBVNcX6xgXDQMSQOPKIJ18/edit?usp=sharing)
+
 ### Meetings
 
 In the 3 years of the original format, we met over beer to discuss issues and projects related to preprints, social networks, co-authorship, outreach, systematic reviews, teaching, innovation, football/soccer and the use of public data.
@@ -16,13 +18,20 @@ You can watch most events (most are in Portuguese) in our [Facebook page](facebo
 
 Since 2019, we've been organizing [hack weeks](https://www.pnas.org/content/115/36/8872) around themes in metascience - science to understand science and make it better.
 
-The first edition was in Rio de Janeiro, in 2019, with activities located at the [D'Or Institute](https://www.rededorsaoluiz.com.br/instituto/idor) and the Federal University of Rio de Janeiro. We received suppor from graduate programs in the University and from [Serrapilheira Institute](https://serrapilheira.org/). For one week, eighteen participants from across the country, from undergrads to postdocs, developed their project ideas. You can watch the talks (in Portuguese) [on YouTube](https://www.youtube.com/playlist?list=PLfID5M8U8w5vmaLJmWgl42xW0tfWWJW9-).
+The [first edition](https://www.reprodutibilidade.bio.br/hack-week-2019) was in Rio de Janeiro, in 2019, with activities located at the [D'Or Institute](https://www.rededorsaoluiz.com.br/instituto/idor) and the Federal University of Rio de Janeiro. We received suppor from graduate programs in the University and from [Serrapilheira Institute](https://serrapilheira.org/). For one week, eighteen participants from across the country, from undergrads to postdocs, developed their project ideas. You can watch the talks (in Portuguese) [on YouTube](https://www.youtube.com/playlist?list=PLfID5M8U8w5vmaLJmWgl42xW0tfWWJW9-).
 
 The second edition was done remotely, in 2020, again in partnership with the Serrapilheira Institute. This time, 25 participants joined us for the event. Most [talks and presentations](https://www.youtube.com/playlist?list=PL8cs9ve1MnDVUWxiAloiwdfki2k_Eauix), as well as our [pre-Hack Week roundtables](https://www.youtube.com/playlist?list=PL8cs9ve1MnDWoH5jIGAc9WsQtgGAI1WC_) are available [in our YouTube channel](https://www.youtube.com/channel/UCZdTWlmSp9eSCgXKtCyRiyA). The event was covered by [Revista FAPESP (Portuguese)](https://revistapesquisa.fapesp.br/um-notebook-na-mao-um-projeto-na-cabeca/), where you can see more details about the project. Data and presentations from the projects are also available at [Open Science Framework](https://osf.io/s8bmp/).
 
-The [third edition](https://www.reprodutibilidade.bio.br/hack-week-2021) was also done remotely, in 2021, and consolidade the partnership with Serrapilheira. The pre-Hack Week talks are once more [available online](https://www.youtube.com/watch?v=zqSzu3yn4YA&list=PL8cs9ve1MnDXQOXxclU-qj-ocI5wfvoo6) alongside the final presentation of the projects ([here](https://www.youtube.com/watch?v=6SL8x4cW5tk&list=PL8cs9ve1MnDVGq4vH0IM8D5p_yc2qq5Zu)). Moreover, in 2021 a small call for proposals made a total of R$ 23.000 available to support a few groups in the continuation of their projects. 
+The [third edition](https://www.reprodutibilidade.bio.br/hack-week-2021) was also done remotely, in 2021, and consolidade the partnership with Serrapilheira. The pre-Hack Week talks are once more [available online](https://www.youtube.com/watch?v=zqSzu3yn4YA&list=PL8cs9ve1MnDXQOXxclU-qj-ocI5wfvoo6) alongside the final presentation of the projects ([here](https://www.youtube.com/watch?v=6SL8x4cW5tk&list=PL8cs9ve1MnDVGq4vH0IM8D5p_yc2qq5Zu)). Moreover, in 2021 a small call for proposals made a total of R$ 23.000 available to support a few groups in the continuation of their projects. Materials produced by the groups are available at [OSF](https://osf.io/7su8g/).
+
+Our [Fourth edition](https://www.reprodutibilidade.bio.br/hack-week-2022) returned to the presential format, and occurred in 2022 in the Praia Vermelha Campus from the Federal University of Rio de Janeiro, with funding from the Serrapilheira Institute.
+Talks are available [online](https://www.youtube.com/watch?v=cbDbO-CFLm4&list=PL8cs9ve1MnDWtFtvxoUlkX0ExEu4IcGgC&ab_channel=No-BudgetScience) as well as final presentations ([here](https://www.youtube.com/watch?v=nzYdeHZHVTQ&list=PL8cs9ve1MnDWtFtvxoUlkX0ExEu4IcGgC&index=10&ab_channel=No-BudgetScience)) and OSF material [here](https://osf.io/dc2s3/).
+
+In 2023, we are organizing an online [event](no-budget-science-hack-week-2023), with remote and assyncronous work, with the focus of developing projects in the theme of the academic career.
+We once again are supported by the Serrapilheira Instutute for funding small project costs. Check out the event website for more information!
 
 For the remote edition, we also developed a [remote work guide for Brazilian scientists (Portuguese)](trabalho-remoto.html).
+
 
 ### Team
 
