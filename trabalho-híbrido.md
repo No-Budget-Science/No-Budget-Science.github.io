@@ -1,4 +1,5 @@
 ## **Guia de Trabalho Híbrido para Cientistas brasileiros**
+(Agosto de 2022)
 <hr>
 
 Com a tendência de trabalho remoto [trazida pela pandemia][1] - sem muito aviso prévio e tempo de preparação - criamos um [guia para descrever princípios em torno dos quais o trabalho remoto funciona](./trabalho-remoto.html), com foco nas dinâmicas de grupos de pesquisa, em particular pesquisa "no-budget" ([na nossa definição][2]).
