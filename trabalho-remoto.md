@@ -1,4 +1,5 @@
 ## **Guia de Trabalho Remoto para Cientistas brasileiros**
+(Agosto de 2020)
 <hr>
 
 Trabalho remoto é uma tendência recente e para muitas pessoas na academia é uma novidade [trazida pela pandemia][1] - sem muito aviso prévio e tempo de preparação. Esse guia tem como objetivo descrever princípios em torno dos quais o trabalho remoto funciona, com foco nas dinâmicas de grupos de pesquisa, em particular pesquisa "no-budget" ([na nossa definição][2]), que não exige co-localização. __Fazer tudo do mesmo jeito que você faria se estivesse no laboratório pode até funcionar, mas é ineficiente__ e não aproveita as vantagens do remoto. Trabalho remoto pode ser melhor do que só "a nossa reunião semanal agora é no Zoom".
