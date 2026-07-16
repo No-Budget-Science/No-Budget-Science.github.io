@@ -30,7 +30,7 @@ A [terceira edição](https://www.reprodutibilidade.bio.br/hack-week-2021) foi t
 
 A [quarta edição](https://www.reprodutibilidade.bio.br/hack-week-2022) retornou ao formato presencial, e ocorreu em 2022 no campus da Praia Vermelha da UFRJ, com financiamento do Instituto Serrapilheira. As palestras de preparo foram novamente [disponibilizadas online](https://www.youtube.com/watch?v=cbDbO-CFLm4&list=PL8cs9ve1MnDWtFtvxoUlkX0ExEu4IcGgC&ab_channel=No-BudgetScience) assim como as apresentações finais ([aqui](https://www.youtube.com/watch?v=nzYdeHZHVTQ&list=PL8cs9ve1MnDWtFtvxoUlkX0ExEu4IcGgC&index=10&ab_channel=No-BudgetScience)) e material na [OSF](https://osf.io/dc2s3/).
 
-Em 2023, realizaremos um [evento](no-budget-science-hack-week-2023) em formato online, com trabalho remoto e assíncronoo, com foco em desenvolver projetos na temática de carreira acadêmica. Novamente contamos com suporte do Serrapilheira para financiamento de pequenos custos de projetos. Confira o site do evento para mais informações!
+Em 2023, realizamos um [evento](no-budget-science-hack-week-2023) em formato online, com trabalho remoto e assíncronoo, com foco em desenvolver projetos na temática de carreira acadêmica. Novamente contamos com suporte do Serrapilheira para financiamento de pequenos custos de projetos. As apresentações finais de projetos estão disponíveis [aqui](https://youtu.be/K7yGUCbOl3Y?si=yKC5-00m-T0u4t8F) e [aqui](https://www.youtube.com/watch?v=UZMLkZO8ml0).
 
 ### Equipe
 
